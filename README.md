@@ -1,4 +1,4 @@
-# 💬 GPT-4o Mini Chatbot (Python)
+# 💬 AIchatbot(Python)
 
 This is a minimal Python script that sends user input to OpenAI's GPT-4o Mini model and prints the AI's response.
 
